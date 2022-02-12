@@ -1,6 +1,6 @@
 # startup_namer
 
-A new Flutter project.
+This is a Flutter app that's generate random cool name for startup.
 
 ## Getting Started
 
