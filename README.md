@@ -1,4 +1,4 @@
-# startup_namer
+# Startup Name Generator
 
 This is a Flutter app that's generate random cool name for startup.
 
